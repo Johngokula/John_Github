@@ -1,1 +1,1 @@
-# John_Github
+It is explained about the description of preject.
